@@ -4013,4 +4013,5 @@ Michael Wong
 - [Omar Rashed](https://github.com/Omar-F-Rashed)
 - [Jay Nam](https://github.com/yaluruns)
 - [SoonBanned](https://github.com/SoonBanned)
+- [NazirAbubbakar](https://github.com/naziiriah)
 <!-- prettier-ignore-end -->
